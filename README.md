@@ -66,9 +66,6 @@ My portfolio website showcases my skills, projects, and achievements in web deve
   - Screen reader friendly
   - High contrast support
 
-## 🔴 Live Demo  
-🎉 **Check it out here:** 👉 [jayprajapati.dev](https://jayprajapati-dev.github.io)  
-
 ## ⚙️ Installation
 
 1. Clone the repository:
